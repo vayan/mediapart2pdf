@@ -1,8 +1,8 @@
-#Mediapart to PDF
+# Mediapart to PDF
 
 Download latest PDF version of Mediapart articles
 
-#Usage
+# Usage
 
 `bundle install`
 
